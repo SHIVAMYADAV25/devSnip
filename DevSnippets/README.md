@@ -3,6 +3,8 @@
 
 > A production-ready **React Native + Expo** mobile app for saving, organizing, managing, and AI-explaining code snippets — built for the Mobile Development Cohort.
 
+![UI SS](./assets/devSnipUI.png)
+
 ---
 
 ## 📱 App Preview
